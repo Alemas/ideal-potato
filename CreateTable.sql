@@ -1,6 +1,6 @@
 drop table product;
 
-create table product ( id int,
+create table app.products ( id int,
 					Title varchar(255),
 					Author varchar(255) not null,
 					Material varchar(100) not null,
