@@ -5,4 +5,4 @@ create table app.products ( id int,
 					Price decimal(5,2) not null,
 					Release_Date date not null,
 					primary key (id)
-					);
+					)
